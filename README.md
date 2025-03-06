@@ -33,7 +33,7 @@ This project is built using the Laravel framework. The application is a task man
 
 ## Installation Instructions
 
-1. Clone the repository: `git clone https://github.com/your-username/laravel-task-management.git`
+1. Clone the repository: `git clone https://github.com/AhmedMahfouz-web/tasks-project.git`
 2. Navigate to the project directory: `cd laravel-task-management`
 3. Install dependencies: `composer install`
 4. Set up the environment file: `cp .env.example .env` and configure your database settings.
